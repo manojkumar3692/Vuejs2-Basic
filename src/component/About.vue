@@ -10,7 +10,6 @@
             <li>$npm run dev</li>
             </ul>
             <p>The app will run in you localhost , you will redirected to the home page where now you will be able to search for the repository , Try it out </p>
-
             <h2>Concepts involed </h2>
             <ul>
             <li>Basic Routing <li>
