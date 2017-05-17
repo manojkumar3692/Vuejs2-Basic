@@ -4,7 +4,7 @@
             <h1>What is this app ?</h1>
             <p>This is a simple vue js application , where we enter the github username , once entered it searches the username in github using github API and fectchs all the repository available under the username. For API & HTTP i have used AXIOS which is a Promise based HTTP client for the browser and node.js </p>
             <h2>Setup Vuejs App</h2>
-            <p>First download the folder from github , after download go inside the folder and run the following command</p>
+            <p>First download the folder from github ,<a href="https://github.com/manojkumar3692/manojkumar3692.github.io">https://github.com/manojkumar3692/manojkumar3692.github.io</a> after download go inside the folder and run the following command</p>
             <ul>
             <li>$npm install </li>
             <li>$npm run dev</li>
